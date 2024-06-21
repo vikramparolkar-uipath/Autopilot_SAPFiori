@@ -1,0 +1,19 @@
+﻿{
+  "Name": "Plant",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "M7dUHR3NlEGH5RlY8pq3yw",
+  "Reference": "x1aFVyPc3k-tsP91ODs_Ow/M7dUHR3NlEGH5RlY8pq3yw",
+  "ParentRef": "x1aFVyPc3k-tsP91ODs_Ow/oul5O48uTUKQPh_6xmWwmQ",
+  "Created": "2024-06-21T03:38:21.2177909Z",
+  "Updated": "2024-06-21T03:38:21.2177909Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

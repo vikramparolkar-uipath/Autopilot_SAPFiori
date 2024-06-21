@@ -1,0 +1,16 @@
+﻿{
+  "Name": "SAP.M.SEARCHFIELD",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "JI2F_94X50yFoN3scTuvhg",
+  "Reference": "x1aFVyPc3k-tsP91ODs_Ow/JI2F_94X50yFoN3scTuvhg",
+  "ParentRef": "x1aFVyPc3k-tsP91ODs_Ow/oul5O48uTUKQPh_6xmWwmQ",
+  "Created": "2024-06-21T03:38:21.335719Z",
+  "Updated": "2024-06-21T03:38:21.335719Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

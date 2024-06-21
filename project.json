@@ -1,0 +1,63 @@
+{
+  "name": "Autopilot_SAPFiori",
+  "projectId": "8b1497fc-a2b1-4ba9-afca-d16bdffda481",
+  "description": "Sample SAP Fiori UI Library that is used to live demo Autopilot for Testers/Developers",
+  "main": "NewActivity.xaml",
+  "dependencies": {
+    "Library_SAP_WinGUI": "[1.0.137580168]",
+    "UiPath.CodedWorkflows": "[24.10.0]",
+    "UiPath.DataService.Activities": "[23.10.0]",
+    "UiPath.Excel.Activities": "[2.23.4]",
+    "UiPath.System.Activities": "[24.10.0]",
+    "UiPath.Testing.Activities": "[24.10.0]",
+    "UiPath.UIAutomation.Activities": "[24.10.0-preview]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "24.10.0.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Library",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "4ba02d86-bc3a-4f17-a092-d85e75e82fbf",
+        "testCaseType": "TestCase",
+        "fileName": "Verify real-time PO look-up in SAP Fiori.cs"
+      }
+    ],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}

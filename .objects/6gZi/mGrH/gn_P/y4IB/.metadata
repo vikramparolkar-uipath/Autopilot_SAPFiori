@@ -1,0 +1,19 @@
+﻿{
+  "Name": "Manage Purchase Order Tile",
+  "Type": "Element",
+  "TaxonomyType": "Card",
+  "Id": "y4IBRRjPyEah3X7GYaI8SQ",
+  "Reference": "x1aFVyPc3k-tsP91ODs_Ow/y4IBRRjPyEah3X7GYaI8SQ",
+  "ParentRef": "x1aFVyPc3k-tsP91ODs_Ow/gn_PRyxML0uxOJN5ad-aew",
+  "Created": "2024-06-21T03:38:21.4315424Z",
+  "Updated": "2024-06-21T03:38:21.4315424Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

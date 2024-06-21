@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Log On",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "xCBudo2MF0-haGp-gcfcEw",
+  "Reference": "x1aFVyPc3k-tsP91ODs_Ow/xCBudo2MF0-haGp-gcfcEw",
+  "ParentRef": "x1aFVyPc3k-tsP91ODs_Ow/JWxyYo3du0yitaJUpyA-RA",
+  "Created": "2024-06-21T03:38:21.034834Z",
+  "Updated": "2024-06-21T03:38:21.034834Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

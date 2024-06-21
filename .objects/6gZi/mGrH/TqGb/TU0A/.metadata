@@ -1,0 +1,17 @@
+﻿{
+  "Name": "PO Item Table",
+  "Type": "Element",
+  "TaxonomyType": "Table",
+  "Id": "TU0AM8VkgUyORzzzuJUOjg",
+  "Reference": "x1aFVyPc3k-tsP91ODs_Ow/TU0AM8VkgUyORzzzuJUOjg",
+  "ParentRef": "x1aFVyPc3k-tsP91ODs_Ow/TqGbpTw0iE2V3IpIUb1AEA",
+  "Created": "2024-06-21T03:38:21.4816355Z",
+  "Updated": "2024-06-21T03:38:21.4816355Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

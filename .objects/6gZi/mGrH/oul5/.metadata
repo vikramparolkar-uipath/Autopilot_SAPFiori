@@ -1,0 +1,18 @@
+﻿{
+  "Name": "Manage Purchase Orders",
+  "Type": "Screen",
+  "Id": "oul5O48uTUKQPh_6xmWwmQ",
+  "Reference": "x1aFVyPc3k-tsP91ODs_Ow/oul5O48uTUKQPh_6xmWwmQ",
+  "ParentRef": "x1aFVyPc3k-tsP91ODs_Ow/mGrHMfMT9UOqDspAyQL8kA",
+  "Created": "2024-06-21T03:38:21.1104381Z",
+  "Updated": "2024-06-21T03:38:21.1104381Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Select Options",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "d7FWk_X9xkyDETHKz0elqg",
+  "Reference": "x1aFVyPc3k-tsP91ODs_Ow/d7FWk_X9xkyDETHKz0elqg",
+  "ParentRef": "x1aFVyPc3k-tsP91ODs_Ow/oul5O48uTUKQPh_6xmWwmQ",
+  "Created": "2024-06-21T03:38:21.3636962Z",
+  "Updated": "2024-06-21T03:38:21.3636962Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
